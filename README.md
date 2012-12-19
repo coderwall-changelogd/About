@@ -4,7 +4,7 @@
 
 [Coderwall](https://coderwall.com/gh) is a network of developers that care about their craft. We recognize your programming accomplishments and make it easy to connect with others developers.
 
-## How do I unlock theChangelog'd achievement?
+## How do I unlock the Changelog'd achievement?
 
 Easy! Visit [coderwall.com](https://coderwall.com/gh) and create an account. We'll monitor your public github repo once a week and award you new achievements.
 
